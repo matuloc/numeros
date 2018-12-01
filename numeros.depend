@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1543617688 source:d:\paralela\tarea\numeros\main.cpp
+	<iostream>
+	<fstream>
+	<locale.h>
+	<math.h>
+
+1543628512 source:c:\users\micl_\desktop\u\paralela\tarea\numeros\main.cpp
+	<iostream>
+	<fstream>
+	<locale.h>
+	<math.h>
+	<vector>
+
